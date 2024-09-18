@@ -1,0 +1,8 @@
+# exclude everything
+tmp/*
+data/*
+__pycache__
+
+# exception to the rule
+!tmp/.gitkeep 
+!data/.gitkeep 
